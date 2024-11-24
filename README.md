@@ -46,9 +46,8 @@ This project focuses on analyzing and cleaning a dataset related to global life 
 ### **How to Use**
 1. Clone the repository:  
    ```bash
-   git clone <repo-link>
+   git clone https://github.com/SoumayaEloualid/World-Life-Expectancy-Exploratory.git
    ```
-=
 
 ---
 
